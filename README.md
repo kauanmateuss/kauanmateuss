@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kauan Mateus 👋
 
 
-- 🔭 Hoje eu sou estagiário de Front-end
+- 🔭 Hoje eu sou estudante de Front-end
 - 🌱 Estudando Programação e Desenvolvimento Web
 - 😄 Pronouns: Ele/dele
 
