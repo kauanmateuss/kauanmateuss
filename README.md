@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Kauan Mateus 👋
 
 
-- 🔭 Hoje eu sou estudante de Front-end
-- 🌱 Estudando Programação e Desenvolvimento Web
+- 🔭 Sou estudante de Engenharia da Computação
 - 😄 Pronouns: Ele/dele
 
 <div style="display: inline_block"><br>
