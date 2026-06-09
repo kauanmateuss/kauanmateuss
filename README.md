@@ -1,7 +1,7 @@
 # 👋 Olá, sou o Kauan Mateus! :D
 
 Atualmente graduando em Engenharia da Computação. 
-Tenho interesse e curiosidades por diversas áreas da computação como **Desenvolvimento de Software**, **Visão Computacional**, **Sistemas Embarcados** e **Robótica**, e atualmente eu utilizo python, linguagem C/C++ e desenvolvo projetos com foco em software embarcado e Visão Computacinal.
+Tenho interesse e curiosidades por diversas áreas da computação como **Visão Computacional**, **Sistemas Embarcados** e **Robótica**, e atualmente eu utilizo python, linguagem C/C++ e desenvolvo projetos com foco em software embarcado e Visão Computacinal.
 
 Estou sempre em busca de aprender mais e melhorar minhas habilidades como desenvolvedor e como engenheiro. 🚀
 
